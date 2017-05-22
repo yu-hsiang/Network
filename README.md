@@ -3,8 +3,8 @@
  
 # G.8032
  ## define
-  ** G.8032 is an ethernet ring (event trigger) protection protocol.
+  1. G.8032 is an ethernet ring (event trigger) protection protocol.
  
  ## The roles in a ring
- ** RPL Owner node
- ** Member nodes
+ 1. RPL Owner node
+ 2. Member nodes
